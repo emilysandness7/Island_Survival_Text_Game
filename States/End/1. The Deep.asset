@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 1. The Deep
+  m_EditorClassIdentifier: 
+  storyText: "You wake up with a jolt. You feel wet and light headed, everything is
+    dim. You see water pooling around you and you can hear water comng into the jet.
+    \r\n\r\nYou grab your backpack next to you and look out the windows. It's black,
+    pitch black. You feel the panic wanting to explode inside you. \r\n\r\nThe jet
+    is submerged. That's why it's dark out. That's why it's wet and you can hear water
+    coming in. You stop and feel your surroundings. Nothing is moving, not even the
+    jet. \r\n\r\n\"We're at the bottom.\" You whisper. \r\n\nPress 1 to continue...\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 3c0c65ae8f22c6546b0c27317d09b7f2, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 6.1 The Gods have Heard 2
+  m_EditorClassIdentifier: 
+  storyText: "There's a man... an unnaturally large and muscular man with long flowing
+    hair, a robe on and a trident in his hand...  You notice he's standing on the
+    water. \"P..Posidon...?\" You utter in disbelief. \r\n\r\nThe strange man laughed
+    a manly laugh. \"Yes little mortal it is I! I have heard your plea and have come
+    to rescue you!\"\r\n\r\nYou start stammering unintelligibly. What the hell is
+    going on? Am I dreaming? Am I saved?!\r\n\r\nPoseidon offers out his hand. You
+    walk to him and take it. He smiles kindly. You feel unimaginable pain in you abdomen.
+    You look down, a trident is sticking out of you.\r\n\nPress 1 to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: ee5b778afa5566a4781f100115941c56, type: 2}

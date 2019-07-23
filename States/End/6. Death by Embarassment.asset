@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 6. Death by Embarassment
+  m_EditorClassIdentifier: 
+  storyText: "You look at him confused. You don't know what to say, what to think.
+    \r\n\r\n\"Fine.\" The rescuer says. \"Just get in the damn chopper.\"\r\n\r\nYou
+    numbly board the chopper. You're lifted into the air. After a minute you see the
+    other side of the island. It's... a resort... the resort you were attending for
+    the retreat...\r\n\r\nYou pass out...and die of embarassment.\r\n\nPress 1 to
+    accept your death...\n\r"
+  nextStates:
+  - {fileID: 11400000, guid: f1c112c8f29fca74a8d8a17304f971d2, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 0. Back to the Beach
+  m_EditorClassIdentifier: 
+  storyText: "You turn away from the disturbing sights before you. You cautiously
+    turn back the the safety of the beach. You keep your eyes and ears open in case
+    something unexpected happens.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 6e167d50313b0ee4da23597154d549e8, type: 2}

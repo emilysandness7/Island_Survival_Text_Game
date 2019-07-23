@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 4. Abducted
+  m_EditorClassIdentifier: 
+  storyText: "You hear an unearthly sound. It's like a jet but, different. You look
+    up. A strange ship is hovering over you. You try to run but you're frozen, you
+    can't move a muscle. \r\n\r\nThe ship above emits a beam of light, you find yourself
+    surrounded by this beam. You start to panic, you try to move desperately but nothng
+    is working. The aliens just watch you, their reptilian faces emotionless.\r\n\r\nYou're
+    lifted off of the ground and you start floating upwards. Up towards the ship.
+    Everything inside of you is screaming.\r\n\r\nYou enter the ship and you never
+    return.\r\n\nPress 1 to accept your death..."
+  nextStates:
+  - {fileID: 11400000, guid: f1c112c8f29fca74a8d8a17304f971d2, type: 2}

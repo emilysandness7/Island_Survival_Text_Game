@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 4. Start a Fire
+  m_EditorClassIdentifier: 
+  storyText: "You gather tinder and kindling. You successfully start a fire. Easy
+    peasy!\r\n\r\nOnce you get the fire roaring, you think about what to do next.
+    \r\n\r\nWhat do you want to do?\r\n1. Try the satelitte radio.\r\n2. Search the
+    jungle.\r\n3. Put everything back in the bag and throw it in the ocean. "
+  nextStates:
+  - {fileID: 11400000, guid: d742f81a7140cf44e9b10ba85922a138, type: 2}
+  - {fileID: 11400000, guid: b300c217a413c1243baf88b5d9b8ea2c, type: 2}
+  - {fileID: 11400000, guid: 86e097b4217fe5b479d3df1acf22d443, type: 2}

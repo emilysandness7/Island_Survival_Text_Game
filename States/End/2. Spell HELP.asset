@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 2. Spell HELP
+  m_EditorClassIdentifier: 
+  storyText: "You waste hours spelling \"help\" out of large heavy rocks. ou stomach
+    is growling, the sun has gone down. It's twilight. \r\n\r\nYou needed a fire.
+    Your body is too tired to take another step. You lay down and fall asleep for
+    the last time.\r\n\r\nPress 1 to accept your death..."
+  nextStates:
+  - {fileID: 11400000, guid: f1c112c8f29fca74a8d8a17304f971d2, type: 2}

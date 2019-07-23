@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 3. Upstream
+  m_EditorClassIdentifier: 
+  storyText: "Going against all instincts, you head upstream. You keep alert, every
+    fiber in your being is on edge.\r\n\r\nAs you go farther, the the redness becomes
+    brighter and brighter. In the distance you hear something. It sounds like flesh
+    being hacked and pulled apart.\r\n\r\nDo you dare go any closer?\r\n1. Go back
+    to the beach.\r\n2. Keep going.\r\n3. Go back to the cave.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: e4cfbaa77605a604e959cdc94f71bf94, type: 2}
+  - {fileID: 11400000, guid: 89173bd9258a7ce4d9c22977e332a0fb, type: 2}
+  - {fileID: 11400000, guid: b732ea04121f3c649a4da047238ba5df, type: 2}

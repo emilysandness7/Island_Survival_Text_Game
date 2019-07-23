@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 1.2 The Deep 3
+  m_EditorClassIdentifier: 
+  storyText: "\rWater floods in, the jet makes awful noises and starts to collapse
+    in on itself. You pull the string to inflate the raft and you shoot out of the
+    emergency hatch.\r\n\r\nThe pressure of the water crushes you. All of the air
+    is forced out of your lungs. You blindly try to breathe in but the pressure won't
+    allow it. Your vision grows dark and and black fog rolls over your mind.\r\n\r\nWithin
+    a couple of minutes, the raft breaks the surface of the stormy waters. You surface
+    as well only... you don't gasp fro air. Your body floats, still tied to the raft.
+    You are dead, crushed by the pressure of the water. \r\n\nPress 1 to accept your
+    death..."
+  nextStates:
+  - {fileID: 11400000, guid: f1c112c8f29fca74a8d8a17304f971d2, type: 2}

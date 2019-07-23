@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 7. Impaled
+  m_EditorClassIdentifier: 
+  storyText: "\"Stupid man!\" Poseidon said, his face twisted with an evil smile.
+    \"Did you really think I would let someone like you surpass me, Bear Grylls, as
+    the best survivalist?\"\r\n\r\nPoseidon's face melted away and now Bear Grylls
+    is staring at you. You scream in pain and horror. \r\n\r\n\"You will be damned
+    to live this nightmare over and over again!\" He laughs histerically. \r\n\r\nYou
+    scream and everything goes black...\r\n\nPress 1 to continue...\n"
+  nextStates:
+  - {fileID: 11400000, guid: b361e7ff1bea6864aba3dad1d1349636, type: 2}

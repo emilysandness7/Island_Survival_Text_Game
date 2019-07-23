@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 1. Start
+  m_EditorClassIdentifier: 
+  storyText: "You're a famous survivalist. You're becoming even bigger than Bear Grylls.
+    You ride a jet from San Francisco to a private island resort in the Carribbean.\n\nYou're
+    going to a survivalist retreat and give a couple of speeches about well, surviving.\r\n\nThe
+    jet ride is peaceful, you're reading the safety informational booklet provided
+    with every jet ride. The crackle of the comm system interrupts your reading. \n\r\n\"All
+    passengers, please be seated and buckle your seatbelts. We are experiencing a
+    little turbulence. Please remain in your seat until the turbulence passes. Thank
+    you.\" \n\nPress 1 to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: d8c122673916c954aa7c3ce257a6fced, type: 2}

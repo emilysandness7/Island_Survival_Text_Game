@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 1.1 The Deep 2
+  m_EditorClassIdentifier: 
+  storyText: "You're breathing heavily, sweating, panicking. You're at the bottom
+    of the ocean. There's only a slim chance of making it out alive. \r\n\nEven though
+    your chances of survival are slim, you have to try. You're not going to give up.
+    You look for the emergency inflatable boat. You hear the jet's hull starting to
+    cave and crumble under the pressure of the water. \r\n\r\nAt last you find it,
+    you prepare yourself to open the emergency hatch. You tie the raft to yourself
+    in case you pass out. A deep breath, and you open the hatch.\n\nPress 1 to continue...\r\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: ead9d5c2037b31544a663a3000729a22, type: 2}

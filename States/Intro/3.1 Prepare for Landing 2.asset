@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 3.1 Prepare for Landing 2
+  m_EditorClassIdentifier: 
+  storyText: "\r\nYou spring up, grab you survival bag and the emergency flotation
+    device. You quickly open the hatch, just as you rehearsed this in your head. \r\n\r\nYou
+    jump out and inflate the raft. You hold on for dear life in the storm as you try
+    to get in. When you finally get in, you buckle down and prepare to wait out the
+    storm.\r\n\r\nPress 1 to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 8d17fd08bf4f10d4387f3215bc11c432, type: 2}

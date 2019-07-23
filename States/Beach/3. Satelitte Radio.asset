@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 3. Satelitte Radio
+  m_EditorClassIdentifier: 
+  storyText: "You try the radio. It's not getting a signal. You keep on trying, desperate
+    to get a signal. Finally, you are able to get a signal!\r\n\r\nYou call for help,
+    the emergency rescue on the other line sends for help.\r\n\r\nYou start crying.
+    You're going to be saved! You start making a \"help\" sign out of rocks.\r\n\r\nPress
+    1 to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: d2a3654c3eef4af4daff537425e4d13b, type: 2}

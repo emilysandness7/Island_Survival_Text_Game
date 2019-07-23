@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c71df981b179b441bf461067e25bb07, type: 3}
+  m_Name: 5. The Cave
+  m_EditorClassIdentifier: 
+  storyText: "You walk over to the cave, cautious. It's dark and you don't have any
+    sort of light source. You walk into the entrance, your eyes start adjusting to
+    the darkness. You see a faint light at the other end.\r\n\r\nSlowly, you walk
+    towards it, feeling your way through the dim light. When you emerge on the other
+    side, you're bathed in a warm light. \r\n\r\nSomething unnatural catches your
+    eye. You rub your eyes, looking on in disbelief, you see buildings. \rYou're at
+    the resort! This whole time, you were on the same island as the resort. You walk
+    towards it, hopeful and head held high. Too bad the jet crashed and everyone else
+    died. At least you survived and are now able to give your speech and become more
+    famous than Bear Grylls.\r\n\nPress 1 to survive...\n"
+  nextStates:
+  - {fileID: 11400000, guid: f1c112c8f29fca74a8d8a17304f971d2, type: 2}
